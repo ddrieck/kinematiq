@@ -30,6 +30,13 @@ h1 {
 	padding-bottom: 3%;
 }
 
+.thumbnail > img.hidden_action {
+    top: 0; 
+    left: 0;
+    position: relative;
+    display: none;
+}
+
 .staff img {
 	padding-left: 2%;
 	float: left;
@@ -45,6 +52,3 @@ h1 {
 	padding-bottom: 5%;
 }
 
-.hidden {
-	display: none;
-}
