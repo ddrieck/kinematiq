@@ -42,6 +42,10 @@ h1 {
 	padding-bottom: 3%;
 }
 
+.thumbnail {
+	padding-bottom: 15%;
+}
+
 .thumbnail > img.hidden_action {
     top: 0; 
     left: 0;
@@ -52,7 +56,7 @@ h1 {
 .staff img {
 	padding-left: 2%;
 	float: left;
-	padding-bottom: 3%;
+	padding-bottom: 5%;
 }
 
 .staff h5 {
@@ -69,4 +73,9 @@ h1 {
 	background-color: #EAEAE0;
 	padding-top: 1%;
 	padding-bottom: 3%;
+}
+
+#linkedin_logo {
+	width: 40px;
+	margin-left: 45%;
 }
