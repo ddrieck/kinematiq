@@ -60,6 +60,10 @@ h1 {
     display: none;
 }
 
+.photo_row {
+	margin-left: 10%;
+}
+
 .staff img {
 	padding-left: 2%;
 	float: left;
@@ -83,8 +87,8 @@ h1 {
 }
 
 #linkedin_logo {
-	width: 40px;
-	margin-left: 45%;
+	width: 35px;
+	margin-left: 40%;
 }
 
 .story_text {
